@@ -20,6 +20,22 @@ li a{
 
 /* IDs*/
 
+#insta_icone{
+  margin-top: 15px;
+  margin-left: 5px;
+  padding-bottom: 2px;
+}
+
+#face_icone{
+  height: 60px;
+  width: 60px;
+}
+
+#imagem{
+  width: 150px;
+  height: 150px;
+}
+
 #menu{
   width: 1000px;
   margin: auto;
@@ -58,6 +74,7 @@ li a{
   
 }
 
+
 .footer{
   background-color: rgba(240, 85,80, 25%);
   position: absolute;
@@ -80,4 +97,17 @@ li a{
 
 .conteudo{
   height: 100%;
+  image-orientation: from-image;
+}
+
+
+
+.imagem_roda{
+  height: 70px;
+  width: 70px;
+}
+
+.itens_centro{
+  margin: auto;
+  width: 150px;
 }
